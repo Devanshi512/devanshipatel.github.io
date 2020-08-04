@@ -1,2 +1,2 @@
-# devanshipatel.github.io
+# devanshipatel.github.io/portfolio/
 My Portfolio
